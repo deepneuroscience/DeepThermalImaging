@@ -1,5 +1,5 @@
 # [Deep Thermal Imaging]
-##### -
+##### 　
 #### Information
  This README.md is created on 8th January 2018.
 
