@@ -2,7 +2,6 @@
 ##### 　 　
 #### Information
  This README.md is created on 8th January 2018.
- 　 　 　
  Author: Youngjun Cho
  * Ph.D Candidate, UCLIC, Faculty of Brain Sciences, University College London (UCL)
  * MSc in Robotics, BSc in ICT
