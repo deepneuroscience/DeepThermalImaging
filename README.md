@@ -39,7 +39,11 @@
   help deep_thermal_imaging_utils/testingasample<br />
   help deep_thermal_imaging_utils/growingdataset<br />
   help deep_thermal_imaging_utils/simpleDRQ<br />
+  (Detailed instruction is available at http://youngjuncho.com/2018/deepthermalimagingapi/) <br/>
 <br />
+##### 　 　
+#### Data sets: http://youngjuncho.com/datasets/
+
 ##### 　 　
 #### Citation:
  　 　
