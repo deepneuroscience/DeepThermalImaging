@@ -1,11 +1,5 @@
 %% Author Information
 % 01-April-2017 / updated on 01-Janunary-2018
-%
-% Youngjun Cho
-% * Ph.D Candidate, UCLIC, Faculty of Brain Sciences, University College London (UCL)
-% * MSc in Robotics, BSc in ICT
-% * Email: youngjun.cho.15@ucl.ac.uk
-%
 % Reference
 %    Youngjun Cho, Nadia Bianchi-Berthouze, Nicolai Marquardt, and Simon J. Julier. 
 %    Deep Thermal Imaging: Proximate Material Type Recognition in the Wild through Deep Learning of Spatial Surface Temperature Patterns.
