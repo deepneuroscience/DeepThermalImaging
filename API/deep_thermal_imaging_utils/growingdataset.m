@@ -1,10 +1,6 @@
 %% Author Information
 % 08-Janunary-2018
 %
-% Youngjun Cho
-% * Ph.D Candidate, UCLIC, Faculty of Brain Sciences, University College London (UCL)
-% * MSc in Robotics, BSc in ICT
-% * Email: youngjun.cho.15@ucl.ac.uk
 %
 % Reference
 %    Youngjun Cho, Nadia Bianchi-Berthouze, Nicolai Marquardt, and Simon J. Julier. 
