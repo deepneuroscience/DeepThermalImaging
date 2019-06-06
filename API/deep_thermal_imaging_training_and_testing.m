@@ -14,11 +14,6 @@
 %    Advances in Neural Information Processing Systems, 2015
 %
 %
-% [Author Information of Deep Thermal Imaging]
-% * Ph.D Candidate, UCLIC, Faculty of Brain Sciences, University College London (UCL)
-% * MSc in Robotics, BSc in ICT
-% * Email: youngjun.cho.15@ucl.ac.uk
-%
 %
 % example commands:
 % help deep_thermal_imaging_training_and_testing
