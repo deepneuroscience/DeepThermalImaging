@@ -1,12 +1,11 @@
 # [Deep Thermal Imaging]
 ##### 　 　
 #### Information
- This README.md is created on 8th January 2018.<br />
- Author: Youngjun Cho<br />
- * Ph.D Candidate, UCLIC, Faculty of Brain Sciences, University College London (UCL)
- * MSc in Robotics, BSc in ICT
- * Email: youngjun.cho.15@ucl.ac.uk<br />
+   This README.md is modified on 6th June 2019.
+   Author: Youngjun Cho
 
+   Assistant Professor, UCL Computer Science
+   Email: youngjun.cho@ucl.ac.uk
 ##### 　 　
 #### Requirement
   Matlab (version>2012)<br />
